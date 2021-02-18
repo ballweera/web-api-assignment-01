@@ -1,7 +1,16 @@
 # WEB-API Assignment-01
 
-### Create RESTful API below
+## Instructions
 - GET /weather?callLetters=[value]
+- Connect to data on Mongo Atlas
+- Use database `sample_weatherdata`
+- Use data from collection `data`
+
+## Condition
+- Must commit source code to github account
+- Required at least 2 commits: initiate project and include installed required packages, and finish GET /weather?callLetters=<value>
+- node_modules/ must be excluded from git repo
+- The program must be able to run on local machine
 
 The sample response is below
 ```json
@@ -20,14 +29,3 @@ The sample response is below
   }
 ]
 ```
-
-## Instructions
-- Connect to data on Mongo Atlas
-- Use database `sample_weatherdata`
-- Use data from collection `data`
-
-## Condition
-- Must commit source code to github account
-- Required at least 2 commits: initiate project and include installed required packages, and finish GET /weather?callLetters=<value>
-- node_modules/ must be excluded from git repo
-- The program must be able to run on local machine
