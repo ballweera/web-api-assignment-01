@@ -1,6 +1,7 @@
 # WEB-API Assignment-01
-Create RESTful API below
-- GET /weather?callLetters=<value>
+
+### Create RESTful API below
+- GET /weather?callLetters=[value]
 
 The sample response is below
 ```json
